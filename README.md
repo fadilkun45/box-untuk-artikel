@@ -1,5 +1,5 @@
 # box-untuk-artikel
-section untuk daftar artikel 
+untuk daftar artikel 
 
 > fungsi
 
